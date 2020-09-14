@@ -1,0 +1,1 @@
+# StratDesign-3
